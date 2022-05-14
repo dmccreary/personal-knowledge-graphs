@@ -5,11 +5,12 @@
 ### Part 1: Introduction
 
 1. Why this book - the vision of an intelligent assistant
-2. The popularity of PKGs - why the second brain is useful
-3. The popularity of EKGs - central repositories of knowledge
+2. The popularity of PKGs - why the second brain is useful, personal knowledge management
+3. The popularity of EKGs - central repositories of knowledge, the value of connected information
 4. The business value of connected information
 5. Business value of PKG-EKG integration
 6. Autocomplete, APIs and Data Formats
+7. The role of the Chief Knowledge Officer - integration without restricting creativity
 
 ### Part 2: Key Concepts
 
