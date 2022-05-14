@@ -4,16 +4,18 @@
 
 ### Part 1: Introduction
 
-1. Why this book
-2. The popularity of EKGs
-3. The business value of connected information
-4. Business value of PKG
-5. APIs and Data Formats
+1. Why this book - the vision of an intelligent assistant
+2. The popularity of PKGs - why the second brain is useful
+3. The popularity of EKGs - central repositories of knowledge
+4. The business value of connected information
+5. Business value of PKG-EKG integration
+6. Autocomplete, APIs and Data Formats
 
 ### Part 2: Key Concepts
 
 1. The Knowledge Triangle: Data, Information and Knowledge
-2. SKOS
+2. Note-taking and the power of Autocomplete - enabling the intelligent assistant
+3. SKOS
    1. Preferred labels
    2. Alternate labels
    3. Definitions
@@ -21,11 +23,18 @@
    5. Rules
    6. Relationships
    7. Types Relationships
-3.  Adding structure rules to a subgraph
+4.  Adding structure rules to a subgraph
+5.  Registry vs. Repository
+6.  Canonical Schemas
 
 ### Part 3: Case Studies
+    1. Students
+    2. Researchers
+    3. Writers
 
 #### Personal Note Taking
+
+    1. The evolution of note and notes relationships
 
 ### Part 4: Integration
 
@@ -69,5 +78,9 @@ SKOS is a universal way to represent glossaries, business vocabularies, taxonomi
 #### Integrating NLP Tools
 
 Large language model tools such as BERT and GPT have revolutionized concept editing.  In this section we will review some of the ways that NLP tools can be integrated into PKGs.
+
+#### Integrating with Employee Data
+
+Your knowledge graph should be able to allow you to quickly reference individuals in your organization and your peer group.  Your note taking should work with your "autocomplete" just like when you type "to:" or "cc:" in your email.
 
 

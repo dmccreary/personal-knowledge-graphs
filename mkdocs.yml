@@ -6,15 +6,18 @@ nav:
     - intro/index.md
     - intro/what-is-a-pkg.md
   - Integration:
-    - integration/index.md
-    - integration/markdown.md
-    - integration/importing.md
-    - integration/exporting.md
-    - integration/flat-files.md
-    - integration/working-with-rdf.md
-    - integration/working-with-lpg.md
-    - integration/formal-ontologies.md
-    - integration/nlp.md
+    - Intro: integration/index.md
+    - Markdown: integration/markdown.md
+    - Importing: integration/importing.md
+    - Exporting: integration/exporting.md
+    - Flat Files: integration/flat-files.md
+    - RDF: integration/rdf.md
+    - LPG: integration/lpg.md
+    - Formal Ontologies: integration/formal-ontologies.md
+    - NLP: integration/nlp.md
+    - Autocomplete: integration/autocomplete.md
+  Glossary: glossary.md
+  References: references.md
 site_description: 'A book on Personal Knowledge Graphs.  All content licensed Creative Commons ShareAlike Attribution Noncommercial'
 site_author: 'Dan McCreary'
 repo_name: 'GitHub Repo'
