@@ -1,0 +1,42 @@
+
+
+site_name: Personal Knowledge Graphs
+nav:
+  - Introduction:
+    - intro/index.md
+    - intro/what-is-a-pkg.md
+  - Integration:
+    - integration/index.md
+    - integration/markdown.md
+    - integration/importing.md
+    - integration/exporting.md
+    - integration/flat-files.md
+    - integration/working-with-rdf.md
+    - integration/working-with-lpg.md
+    - integration/formal-ontologies.md
+    - integration/nlp.md
+site_description: 'A book on Personal Knowledge Graphs.  All content licensed Creative Commons ShareAlike Attribution Noncommercial'
+site_author: 'Dan McCreary'
+repo_name: 'GitHub Repo'
+repo_url: 'https://github.com/dmccreary/personal-knowledge-graphs'
+
+# CoderDojo Standards from here down
+edit_uri: 'blob/master/docs'
+theme:
+  # should be name: material
+  name: material
+  logo: img/coderdojo-logo.png
+  palette:
+    primary: '#642580'
+    accent: '#41BAC1'
+  custom_dir: 'theme'
+  include_sidebar: true
+plugins:
+  - search
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.highlight:
+      linenums: true
+  - pymdownx.details
+  - pymdownx.superfences
