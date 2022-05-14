@@ -1,10 +1,8 @@
-
-
 site_name: Personal Knowledge Graphs
 nav:
   - Introduction:
-    - intro/index.md
-    - intro/what-is-a-pkg.md
+    - Intro: intro/index.md
+    - What is a PKG?: intro/what-is-a-pkg.md
   - Integration:
     - Intro: integration/index.md
     - Markdown: integration/markdown.md
