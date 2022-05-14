@@ -4,7 +4,7 @@ nav:
   - Introduction:
     - About: about.md
     - Outline: intro/outline.md
-    - What is a PKG?: intro/what-is-a-pkg.md
+    - What is a PKG: intro/what-is-a-pkg.md
   - Integration:
     - Intro: integration/index.md
     - Markdown: integration/markdown.md
