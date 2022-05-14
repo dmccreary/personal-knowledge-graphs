@@ -16,8 +16,8 @@ nav:
     - Formal Ontologies: integration/formal-ontologies.md
     - NLP: integration/nlp.md
     - Autocomplete: integration/autocomplete.md
-  Glossary: glossary.md
-  References: references.md
+  - Glossary: glossary.md
+  - References: references.md
 site_description: 'A book on Personal Knowledge Graphs.  All content licensed Creative Commons ShareAlike Attribution Noncommercial'
 site_author: 'Dan McCreary'
 repo_name: 'GitHub Repo'
